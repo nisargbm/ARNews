@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="car_image" size="1.000000 0.624822" />
+    <ImageTarget name="trailer" size="1.000000 0.961489" />
+    <ImageTarget name="modi" size="1.000000 0.552311" />
+    <ImageTarget name="ipl" size="1.000000 0.643154" />
   </Tracking>
 </QCARConfig>
